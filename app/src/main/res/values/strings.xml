@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Texts</string>
+    <string name="hard_coded_string_name"> coolHardCodedStringValue </string>
+    <string name="click_button">Submit</string>
+    <string name="cycle">Cycle</string>
+    <string name="name_hint">enter your name</string>
+    <string name="text_box_label"></string>
+    <string name="text_box_label1"></string>
+    <string-array name="planets_array">
+        <item>The</item>
+        <item>Cat</item>
+        <item>Chased</item>
+        <item>The</item>
+        <item>Mouse</item>
+    </string-array>
+    <string name="color_hint">enter your favorite color</string>
+</resources>
